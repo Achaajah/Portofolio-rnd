@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="banner.png" width="100%">
+  <img src="banner.png" alt="Banner" width="80%">
 </p>
+
 <div align="center">
 
 # 👋 Hi, I'm Arsya Awfazahran

@@ -1,248 +1,130 @@
-# 🌐 Website Informasi Kelas B
-
 <div align="center">
 
-# 👨‍💻 Arsya Awfazahran
+# 👋 Hi, I'm Arsya Awfazahran
 
-### Informatics Student | Web Developer Enthusiast
+### 💻 Informatics Student | Web Developer Enthusiast
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=00CFFF&center=true&vCenter=true&width=600&lines=Welcome+to+My+GitHub!;Web+Developer+Enthusiast;Always+Learning+New+Technologies;Building+Projects+One+Step+at+a+Time" />
+
+![](https://komarev.com/ghpvc/?username=Kazemicoderai&style=for-the-badge&color=blue)
 
 </div>
 
 ---
 
-# 👋 About Me
+# 👨‍💻 About Me
 
-Halo! Saya **Arsya Awfazahran**, mahasiswa **Program Studi Informatika** di **Universitas Singaperbangsa Karawang**.
+Hi! Saya **Arsya Awfazahran**, mahasiswa **Program Studi Informatika** di **Universitas Singaperbangsa Karawang**.
 
-Saya memiliki ketertarikan pada **Web Development** dan terus mengembangkan kemampuan dalam membangun aplikasi web yang sederhana, responsif, dan mudah digunakan.
+Saya memiliki ketertarikan pada **Web Development**, baik Front-End maupun Back-End. Saat ini saya terus mengembangkan kemampuan dalam membangun aplikasi web menggunakan HTML, CSS, JavaScript, PHP, dan Next.js.
 
-Saat ini saya sedang mempelajari berbagai teknologi modern seperti **Next.js** dan **PHP**, serta memiliki dasar pemrograman menggunakan **C++** untuk memahami algoritma dan logika pemrograman.
-
-Project ini dibuat sebagai portofolio pribadi sekaligus sebagai salah satu syarat mengikuti seleksi **Divisi Research & Development (R&D) HIMTIKA**.
+Saya senang mempelajari teknologi baru, membangun proyek pribadi, serta terus meningkatkan kemampuan melalui pengalaman praktik dan pengembangan portofolio.
 
 ---
 
 # 📋 Biodata
 
-| Informasi | Keterangan |
-|-----------|------------|
+| | |
+|:--|:--|
 | 👤 Nama | Arsya Awfazahran |
 | 🎓 Program Studi | Informatika |
 | 🏫 Universitas | Universitas Singaperbangsa Karawang |
-| 💼 Bidang Minat | Front-End & Back-End Web Development |
-| 🎯 Posisi yang Dilamar | Research & Development HIMTIKA |
+| 💻 Fokus | Web Development |
+| 🌱 Sedang Dipelajari | Next.js, PHP, React |
+| 📍 Lokasi | Indonesia |
 
 ---
 
-# 🛠 Tech Stack
+# 🚀 Tech Stack
 
 ## 🌐 Front-End
 
-- HTML5
-- CSS3
-- JavaScript
-- Next.js *(Currently Learning)*
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,javascript,nextjs,react" />
+</p>
 
 ## ⚙️ Back-End
 
-- PHP *(Currently Learning)*
+<p>
+<img src="https://skillicons.dev/icons?i=php,nodejs" />
+</p>
 
-## 💻 Programming Language
+## 💾 Database
 
-- JavaScript
-- PHP
-- C++ *(Basic)*
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
 
-## 🧰 Tools
+## 💻 Programming Languages
 
-- Git
-- GitHub
-- Visual Studio Code
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,javascript,php" />
+</p>
 
----
+## 🛠 Tools
 
-# 📖 Tentang Project
-
-Website Informasi Kelas B merupakan website statis yang dibuat untuk membantu mahasiswa dalam memperoleh informasi mengenai kelas secara lebih terstruktur.
-
-Website ini menjadi media dokumentasi digital yang berisi struktur organisasi kelas, dokumentasi kegiatan, cerita perjalanan kelas, hingga data anggota kelas.
-
-Project ini juga menjadi sarana bagi saya untuk melatih kemampuan dalam membangun website menggunakan HTML, CSS, dan JavaScript.
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,npm" />
+</p>
 
 ---
 
-# ✨ Fitur Website
+# 📌 Featured Project
 
-## 👥 Struktur Kelas
+## 🌐 Website Informasi Kelas B
 
-- Ketua Kelas
-- Wakil Ketua
-- Sekretaris
-- Bendahara
-- Penanggung Jawab (PJ)
-- Struktur Organisasi
+Website informasi kelas yang dibuat menggunakan **HTML**, **CSS**, dan **JavaScript**.
 
----
+### ✨ Fitur
 
-## 🖼️ Galeri
+- 👥 Struktur Kelas
+- 🖼️ Gallery
+- 📚 Story
+- 👤 Members
+- 📱 Responsive Layout
 
-Berisi dokumentasi kegiatan kelas seperti:
-
-- Foto kegiatan
-- Video dokumentasi
-- Dokumentasi momen penting
-
----
-
-## 📚 Story
-
-Menceritakan perjalanan kelas mulai dari awal perkuliahan hingga berbagai pengalaman yang telah dilalui bersama.
-
----
-
-## 👤 Members
-
-Menampilkan informasi seluruh anggota kelas beserta data tambahan mengenai anggota yang belum memiliki tugas sebagai PJ.
-
----
-
-# 📷 Preview Website
-
-## 🏠 Home
-
-> Tambahkan screenshot halaman Home
-
-```text
-images/home.png
-```
-
----
-
-## 👥 Struktur Kelas
-
-```text
-images/struktur.png
-```
-
----
-
-## 🖼️ Galeri
-
-```text
-images/galeri.png
-```
-
----
-
-## 📚 Story
-
-```text
-images/story.png
-```
-
----
-
-## 👤 Members
-
-```text
-images/members.png
-```
-
----
-
-# 🚀 Live Demo
-
-🌍 **Website**
+### 🔗 Demo
 
 https://bicstwnyfive.infinityfree.me/
 
-> Masih menggunakan layanan hosting gratis.
-
----
-
-# 💻 Repository
-
-📂 GitHub Repository
+### 💻 Repository
 
 https://github.com/Kazemicoderai/Website-kelas-B
 
 ---
 
-# 📁 Struktur Project
+# 📚 Currently Learning
 
-```text
-Website-kelas-B/
-│
-├── index.html
-├── css/
-│   └── style.css
-│
-├── js/
-│   └── script.js
-│
-├── images/
-│
-├── pages/
-│
-└── README.md
-```
+- 🚀 Next.js
+- 🐘 PHP
+- ⚛️ React
+- 🗄️ MySQL
+- 🌐 REST API
+- 🔥 Git Workflow
 
 ---
 
-# 🎯 Tujuan Project
+# 📊 GitHub Stats
 
-Project ini dibuat untuk:
+<div align="center">
 
-- Melatih kemampuan membuat website statis.
-- Memahami struktur HTML yang baik.
-- Mempelajari CSS untuk membuat tampilan yang menarik.
-- Mengimplementasikan JavaScript dasar.
-- Menggunakan Git sebagai Version Control.
-- Mengelola project menggunakan GitHub.
-- Menjadi portofolio pribadi.
+![](https://github-readme-stats.vercel.app/api?username=Kazemicoderai&show_icons=true&theme=tokyonight&hide_border=true)
 
----
+![](https://github-readme-streak-stats.herokuapp.com/?user=Kazemicoderai&theme=tokyonight&hide_border=true)
 
-# 📚 Hal yang Saya Pelajari
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kazemicoderai&layout=compact&theme=tokyonight&hide_border=true)
 
-Melalui project ini saya belajar mengenai:
-
-- Struktur HTML yang rapi.
-- Styling menggunakan CSS.
-- DOM Manipulation menggunakan JavaScript.
-- Responsive Layout.
-- Git & GitHub.
-- Deploy website menggunakan hosting gratis.
+</div>
 
 ---
 
-# 🚀 Pengembangan Selanjutnya
+# 📈 Contribution Graph
 
-Fitur yang ingin saya tambahkan pada versi berikutnya:
-
-- ✅ Login Admin
-- ✅ Dashboard Admin
-- ✅ Integrasi Database MySQL
-- ✅ PHP CRUD
-- ✅ Migrasi ke Next.js
-- ✅ Responsive Mobile
-- ✅ Dark Mode
-- ✅ Search Data Anggota
-- ✅ Upload Foto melalui Dashboard
-- ✅ Sistem Login User
+[![Arsya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Kazemicoderai&theme=tokyo-night)](https://github.com/Kazemicoderai)
 
 ---
 
-# 📊 Skills Overview
+# 💼 Skills
 
 | Skill | Level |
 |-------|--------|
@@ -251,31 +133,61 @@ Fitur yang ingin saya tambahkan pada versi berikutnya:
 | JavaScript | ⭐⭐⭐☆☆ |
 | PHP | ⭐⭐☆☆☆ |
 | Next.js | ⭐⭐☆☆☆ |
+| React | ⭐⭐☆☆☆ |
 | C++ | ⭐⭐☆☆☆ |
 | Git & GitHub | ⭐⭐⭐☆☆ |
 
-> Penilaian ini merupakan evaluasi pribadi dan akan terus berkembang seiring pengalaman belajar.
+---
+
+# 🎯 Goals 2025
+
+- ✅ Menguasai JavaScript
+- ✅ Belajar Next.js
+- ✅ Menguasai PHP
+- ✅ Membangun Project Full Stack
+- ✅ Belajar Database MySQL
+- ✅ Berkontribusi pada Open Source
+- ✅ Mendapatkan Pengalaman Magang
 
 ---
 
-# 📫 Contact
+# 📫 Connect With Me
 
-### GitHub
+<p align="left">
 
-https://github.com/Kazemicoderai
+<a href="https://github.com/Kazemicoderai">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
 
-### Email
+<a href="https://instagram.com/USERNAME">
+<img src="https://skillicons.dev/icons?i=instagram" />
+</a>
 
-your-email@example.com
+<a href="https://linkedin.com/in/USERNAME">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="mailto:EMAIL@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+</p>
 
 ---
 
-# ⭐ Terima Kasih
+# 💡 Favorite Quote
 
-Terima kasih telah meluangkan waktu untuk melihat project ini.
+> **"The best way to learn programming is by building real projects."**
 
-Saya terbuka terhadap kritik dan saran agar dapat terus mengembangkan kemampuan saya di bidang **Web Development** dan memberikan kontribusi yang lebih baik pada project berikutnya.
+---
 
-Semoga project ini dapat memberikan gambaran mengenai proses belajar dan kemampuan yang saya miliki saat ini.
+<div align="center">
 
-⭐ **Jangan lupa memberikan Star apabila repository ini bermanfaat!**
+### ⭐ Thanks for Visiting!
+
+Jika repository saya bermanfaat, jangan lupa berikan ⭐
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00CFFF,100:0047FF&section=footer"/>
+
+</div>
+

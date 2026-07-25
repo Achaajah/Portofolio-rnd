@@ -6,7 +6,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=00CFFF&center=true&vCenter=true&width=650&lines=Welcome+to+My+GitHub!;Web+Developer+Enthusiast;Always+Learning+New+Technologies;Building+Projects+One+Step+at+a+Time" />
 
-![](https://komarev.com/ghpvc/?username=achaaja&style=for-the-badge&color=blue)
+![](https://komarev.com/ghpvc/?username=Achaaja&style=for-the-badge&color=blue)
 
 </div>
 
@@ -101,11 +101,11 @@ https://github.com/Kazemicoderai/Website-kelas-B
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=achaaja&show_icons=true&theme=tokyonight&hide_border=true)
+![](https://github-readme-stats.vercel.app/api?username=Achaaja&show_icons=true&theme=tokyonight&hide_border=true)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=achaaja&theme=tokyonight&hide_border=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Achaaja&theme=tokyonight&hide_border=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=achaaja&layout=compact&theme=tokyonight&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Achaaja&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -113,7 +113,7 @@ https://github.com/Kazemicoderai/Website-kelas-B
 
 # 📈 Contribution Graph
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=achaaja&theme=tokyo-night)](https://github.com/achaaja)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Achaaja&theme=tokyo-night)](https://github.com/Achaaja)
 
 ---
 
@@ -148,7 +148,7 @@ https://github.com/Kazemicoderai/Website-kelas-B
 
 <p align="left">
 
-<a href="https://github.com/achaaja">
+<a href="https://github.com/Achaaja">
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
 

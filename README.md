@@ -1,89 +1,233 @@
-# 🧑‍💻 Portfolio – Arsya Awfazahran
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-Selamat datang di portofolio saya! Dokumen ini dibuat sebagai bagian dari pendaftaran **Divisi Research and Development (R&D) HIMTIKA**. Proyek yang saya tampilkan adalah website sederhana yang saya bangun untuk kebutuhan informasi internal kelas.
+# 🌐 Website Informasi Kelas B
 
----
-
-## 👤 Tentang Saya
-- **Nama:** Arsya Awfazahran  
-- **Program Studi:** Informatika  
-- **Ketertarikan:** Web Development, Sistem Informasi sederhana, dan dokumentasi digital  
-- **Skills:**
-  - HTML & CSS dasar  
-  - JavaScript dasar  
-  - C++ dasar  
-  - Paham alur kerja web sederhana  
-  - Menggunakan GitHub untuk penyimpanan project  
+> Sebuah website informasi kelas yang dibangun menggunakan HTML, CSS, dan JavaScript untuk memudahkan mahasiswa mengakses informasi kelas secara terstruktur.
 
 ---
 
-## 📌 Project Utama – Website Informasi Kelas B
-Website ini saya buat untuk mengorganisir informasi kelas secara lebih terstruktur.  
-Website ini terdiri dari empat fitur utama:
+# 👨‍💻 About Me
+
+Halo! Saya **Arsya Awfazahran**, mahasiswa **Program Studi Informatika** di **Universitas Singaperbangsa Karawang**.
+
+Saya memiliki ketertarikan di bidang **Web Development**, khususnya Front-End Development. Saat ini saya terus mengembangkan kemampuan dalam membangun website yang responsif, mudah digunakan, dan memiliki tampilan yang menarik.
+
+Project ini merupakan salah satu bentuk implementasi dari proses belajar saya sekaligus menjadi portofolio untuk mengikuti seleksi **Divisi Research and Development (R&D) HIMTIKA**.
 
 ---
 
-### 1. **Struktur Kelas**
-Menampilkan:
-- Daftar anggota kelas  
-- Penanggung jawab (PJ) untuk setiap bagian  
-- Pembagian peran internal  
+# 📋 Biodata
 
-Tujuannya agar struktur kelas lebih jelas dan mudah diakses.
-
----
-
-### 2. **Galeri (Foto & Video)**
-Berisi dokumentasi visual kegiatan kelas:
-- Foto perkuliahan  
-- Video kegiatan  
-- Dokumentasi momen penting  
-
-Galeri dirancang agar mudah dilihat dan diperbarui.
+| Informasi | Keterangan |
+|-----------|------------|
+| Nama | Arsya Awfazahran |
+| Program Studi | Informatika |
+| Universitas | Universitas Singaperbangsa Karawang |
+| Bidang Minat | Web Development |
+| Posisi yang Dilamar | Research & Development HIMTIKA |
 
 ---
 
-### 3. **Story**
-Halaman berisi rangkuman perjalanan kelas B:
-- Cerita awal masuk  
-- Momen lucu  
-- Perkembangan kelas dari waktu ke waktu  
+# 🛠 Tech Stack
 
-Tujuannya memberi identitas dan karakter kelas melalui cerita.
+### Front-End
 
----
+- HTML5
+- CSS3
+- JavaScript
 
-### 4. **Members**
-Berisi:
-- Daftar anggota yang **tidak masuk PJ**  
-- Informasi tambahan mengenai anggota kelas  
+### Tools
 
-Agar seluruh anggota tetap tercatat dan terdokumentasi.
+- Git
+- GitHub
+- Visual Studio Code
 
 ---
 
-## 🔗 Link Project
+# 📖 Tentang Project
 
-**Website:**  
-https://bicstwnyfive.infinityfree.me/    (Masih Menggunakan Hostinger Gratisan)
+Website ini dibuat sebagai media informasi digital untuk kelas B.
 
-**Repository Web Kelas (GitHub):**  
-https://github.com/Kazemicoderai/Website-kelas-B (Kode dapat di Lihat disini)
+Tujuan utama website ini adalah mempermudah mahasiswa dalam memperoleh informasi mengenai struktur kelas, dokumentasi kegiatan, serta data anggota kelas melalui satu website yang sederhana dan mudah digunakan.
 
 ---
 
-## 🚀 Tujuan Saya Mengerjakan Project Ini
-- Melatih pembuatan website statis  
-- Memahami dasar UI/UX sederhana  
-- Belajar dokumentasi dan version control  
-- Meningkatkan pemahaman HTML/CSS/JS  
+# ✨ Fitur Website
+
+## 👥 Struktur Kelas
+
+Menampilkan informasi mengenai:
+
+- Ketua Kelas
+- Wakil Ketua
+- Sekretaris
+- Bendahara
+- Penanggung Jawab (PJ)
+- Struktur organisasi kelas
 
 ---
 
-## 📎 Kontak & Link
-- **GitHub:** https://github.com/Kazemicoderai
+## 🖼️ Galeri
+
+Berisi dokumentasi kegiatan kelas berupa:
+
+- Foto kegiatan
+- Video dokumentasi
+- Kenangan kelas
 
 ---
 
-## 📌 Penutup
-Terima kasih telah melihat portofolio saya. Saya berharap bisa terus berkembang dan mendapatkan pengalaman lebih dalam dunia programming melalui Divisi R&D HIMTIKA.
+## 📚 Story
+
+Halaman yang menceritakan perjalanan kelas mulai dari awal perkuliahan hingga berbagai momen yang telah dilalui bersama.
+
+---
+
+## 👤 Members
+
+Menampilkan daftar anggota kelas yang belum memiliki tugas sebagai PJ beserta informasi singkat mengenai anggota tersebut.
+
+---
+
+# 📷 Preview Website
+
+## Home
+
+> Tambahkan screenshot halaman Home
+
+![Home](images/home.png)
+
+---
+
+## Struktur Kelas
+
+> Tambahkan screenshot halaman Struktur
+
+![Struktur](images/struktur.png)
+
+---
+
+## Galeri
+
+> Tambahkan screenshot halaman Galeri
+
+![Galeri](images/galeri.png)
+
+---
+
+## Story
+
+> Tambahkan screenshot halaman Story
+
+![Story](images/story.png)
+
+---
+
+## Members
+
+> Tambahkan screenshot halaman Members
+
+![Members](images/members.png)
+
+---
+
+# 🚀 Live Demo
+
+Website dapat diakses melalui:
+
+🔗 https://bicstwnyfive.infinityfree.me/
+
+> Masih menggunakan layanan hosting gratis.
+
+---
+
+# 💻 Source Code
+
+Repository GitHub:
+
+🔗 https://github.com/Kazemicoderai/Website-kelas-B
+
+---
+
+# 📁 Struktur Project
+
+```
+Website-kelas-B/
+│
+├── index.html
+├── css/
+│   └── style.css
+│
+├── js/
+│   └── script.js
+│
+├── images/
+│
+├── pages/
+│
+└── README.md
+```
+
+---
+
+# 🎯 Tujuan Project
+
+Project ini dibuat untuk:
+
+- Melatih kemampuan membuat website statis.
+- Memahami struktur HTML yang baik.
+- Mempelajari CSS untuk membangun tampilan website.
+- Mengimplementasikan JavaScript dasar.
+- Belajar menggunakan Git dan GitHub.
+- Menjadi portofolio pengembangan web.
+
+---
+
+# 📚 Hal yang Saya Pelajari
+
+Melalui project ini saya memperoleh pengalaman mengenai:
+
+- Struktur website menggunakan HTML.
+- Styling menggunakan CSS.
+- Manipulasi dasar menggunakan JavaScript.
+- Responsive Layout.
+- Version Control menggunakan Git.
+- Hosting website secara gratis.
+
+---
+
+# 🚀 Pengembangan Selanjutnya
+
+Beberapa fitur yang ingin saya tambahkan di masa mendatang:
+
+- Login Admin
+- Dashboard Pengelolaan Data
+- Database MySQL
+- Responsive Mobile yang lebih baik
+- Dark Mode
+- Search Anggota Kelas
+- Upload Foto melalui Dashboard
+
+---
+
+# 📫 Contact
+
+**GitHub**
+
+https://github.com/Kazemicoderai
+
+**Email**
+
+your-email@example.com
+
+---
+
+# ⭐ Terima Kasih
+
+Terima kasih telah meluangkan waktu untuk melihat project ini.
+
+Saya sangat terbuka terhadap kritik dan saran agar dapat terus berkembang sebagai Web Developer.

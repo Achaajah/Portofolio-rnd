@@ -35,7 +35,7 @@ Saya percaya bahwa cara terbaik untuk belajar adalah dengan membangun proyek nya
 | 🏫 Universitas | Universitas Singaperbangsa Karawang |
 | 💻 Fokus | Web Development |
 | 🌱 Sedang Dipelajari | Next.js, PHP |
-| 📍 Lokasi | Bekasi, Indonesia |
+| 📍 Lokasi | Karawang, Indonesia |
 
 ---
 
